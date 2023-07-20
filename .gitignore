@@ -1,0 +1,7 @@
+Tutorial/dataset/*
+Tutorial/output/*
+iccv09Data/*
+*.pyc
+!Tutorial/dataset/.gitkeep
+!Tutorial/output/.gitkeep
+stanford_background.tar.gz
